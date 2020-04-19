@@ -5,7 +5,7 @@ tweepy==3.5.0
 wikipedia==1.4.0
 giphypop==0.3
 ChatterBot==0.8.1
-nltk==3.2.5
+nltk==3.4.5
 google_api_python_client==1.6.5
 httplib2==0.10.3
 pycountry
